@@ -65,5 +65,6 @@ public class Main {
         }while(num != 7);
 
         doctores.save(doctores.Doctor);
+        pacientes.save(pacientes.Paciente);
     }
 }
